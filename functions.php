@@ -3,6 +3,8 @@
 define('TUT_THEME_DIR_URI', get_template_directory_uri()); // URL to the theme directory
 define('TUT_THEME_DIR', get_template_directory()); // File system path to the theme directory
 
+
+
 // Create a class for the theme
 class Tutorial_Theme {
     // Singleton instance variable
